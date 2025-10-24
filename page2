@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Характеристики</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 20px; }
+    nav { margin-bottom: 20px; }
+    nav a { margin-right: 15px; text-decoration: none; color: #007BFF; }
+    nav a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+<ul>
+<li><strong>Объём (Volume)</strong> — количество данных настолько велико, что традиционные инструменты обработки не справляются с их анализом. Ориентир — не менее 150 ГБ данных в сутки.</li>
+<li><strong>Скорость (Velocity)</strong> — данные создают или получают с огромной скоростью, часто в реальном времени.</li>
+<li><strong>Разнообразие (Variety)</strong> — данные бывают разными: структурированные таблицы и базы данных или неструктурированные: текст, видео, аудио, журналы событий и так далее.</li>
+<li><strong>Достоверность (Veracity)</strong> — важно, чтобы данные были точными, а способ, которым их собирают, — корректным</li>
+</ul>
+  <nav>
+    <a href="index.html">Главная</a>
+  </nav>
+  
+</body>
+</html>
